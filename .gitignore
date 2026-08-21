@@ -39,3 +39,6 @@ hf_cache/
 *.swp
 
 .omc/
+# Submission bundles (large, regenerated from results/ + adapters/)
+results/*.zip
+results/lab21_*/
